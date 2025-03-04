@@ -1,6 +1,6 @@
 # Temperature_Converter_Software
 
-I’m excited to share that I’ve successfully completed and submitted my internship task for Prodigy Infotech! 🎉
+I’ve successfully completed and submitted my internship task for Prodigy Infotech! 🎉
 
 The task was to create a Python script that converts a given temperature between Celsius (°C), Fahrenheit (°F), and Kelvin (K). The script includes:
 - Functions for all possible temperature conversions.
